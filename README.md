@@ -26,7 +26,7 @@ Complete this section after inspecting a real website in Chrome DevTools.
 - Request types observed: document, script
 - Example status co-des: document 304; script 200
 - Observation: The page made two requests. The document was unchanged (304), and the script loaded successfully (200).
-- Evidence: add your screenshot as `screenshots/network-panel.png` and link it here.
+- Evidence: ![Network panel](screenshots/Screenshot%202026-11-02%20182558.png)
 
 ## Setup screenshots
 Add your own screenshots to `screenshots/` and link them below.
