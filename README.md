@@ -21,11 +21,11 @@ When I enter a website address, the browser asks DNS to find the server's IP add
 
 ## Chrome DevTools network inspection
 Complete this section after inspecting a real website in Chrome DevTools.
-- Website and URL:
-- Date inspected:
-- Request types observed:
-- Example status codes:
-- Observation:
+- Website and URL: https://example.com
+- Date inspected: 2026-11-02
+- Request types observed: document, script
+- Example status co-des: document 304; script 200
+- Observation: The page made two requests. The document was unchanged (304), and the script loaded successfully (200).
 - Evidence: add your screenshot as `screenshots/network-panel.png` and link it here.
 
 ## Setup screenshots
